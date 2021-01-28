@@ -1,5 +1,6 @@
-### Hi there 👋
-testando
+Olá! 
+
+Eu sou Leonardo e seja bem vindo ao meu GitHub! aqui você podera encontrar alguns projetos que venho fazendo no intuito de aprender, praticar ou até mesmo colocar em prática alguma ideia que eu acredito!
 <!--
 **melinmiguel/melinmiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
